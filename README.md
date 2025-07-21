@@ -27,10 +27,10 @@ Here are some ideas to get you started:
   <li>On this page I publish some programs that I use simply for my own learning 🏫.</li>
 </ul>
 
-## 🏆Goal
+## 🏆Goal:
 To become a top-level developer capable of building scalable, efficient, and production-ready applications 🎲.
 
-<h2 align="left">I code with:</h2>
+<h2 align="left">⌨️I code with:</h2>
 
 ###
 
