@@ -40,13 +40,11 @@ Here are some ideas to get you started:
       <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" />
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <p><b>Java</b> — ООП, многопоточность, Spring Framework, и многое другое.</p>
-      <p>🚀 В работе над <b>5+</b> проектами на GitHub</p>
-      <p>⭐ Активно изучаю современные технологии Java и инструменты DevOps</p>
+      <p>☕Java</b> — OOP, multithreading, Spring Framework, and more</p>
+      <p>⭐Actively learning modern Java technologies and DevOps tools</p>
     </td>
   </tr>
 </table>
-###
 
 <div align="left">
 
