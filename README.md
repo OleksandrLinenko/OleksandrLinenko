@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sasha .</p>
 
 ###
 
 <h2 align="left">About me</h2>
+Currently I'm studuying Java and C++ in university)
 
 ###
 
