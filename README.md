@@ -30,7 +30,15 @@ Here are some ideas to get you started:
 ## Goal
 To become a top-level developer capable of building scalable, efficient, and production-ready applications 🎲
 
+<h2 align="left">I code with</h2>
 
+###
+
+<div align="left">
+  ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+</div>
+
+###
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo)
 
 <div align="left">
