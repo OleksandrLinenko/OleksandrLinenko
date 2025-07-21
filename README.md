@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   <li>On this page I publish some programs that I use simply for my own learning</li>
 </ul>
 
-###
+## Goal
+To become a top-level developer capable of building scalable, efficient, and production-ready applications 🎲
 
-<p align="left">✨ Creating programs since 16.09.2024<br>📚 I'm currently learning Java<br>🎯 Goals: ## Goal To become a top-level developer capable of building scalable, efficient, and production-ready applications🎲 ##
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo)
 
