@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 ###
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo)
 
 <div align="left">
 
