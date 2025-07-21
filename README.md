@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ## 🔭About me:</h2>
 <ul style="list-style: none; padding-left: 0;">
-  <li>💻Currently I'm studying programming in university</li>
-  <li>🏫On this page I publish some programs that I use simply for my own learning</li>
+  <li>💻Currently I'm studying programming in university;</li>
+  <li>🏫On this page I publish some programs that I use simply for my own learning.</li>
 </ul>
 
 ## 🏆Goal:
