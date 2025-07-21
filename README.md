@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 
 <h2 align="left">I code with:</h2>
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="120">
+<div style="border: 2px solid #007396; border-radius: 8px; padding: 12px; max-width: 320px; background-color: #f0f8ff;">
+  <h3 style="color: #007396; margin: 0;">☕ Java Stats</h3>
+  <p><strong>Version:</strong> 17</p>
+  <p><strong>Popularity:</strong> 🔥🔥🔥🔥🔥</p>
+  <p><strong>Usage:</strong> Backend, Android, Big Data</p>
+</div>
 
 ###
 
