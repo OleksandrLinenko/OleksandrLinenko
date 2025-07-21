@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating programs since 16.09.2024<br>📚 I'm currently learning Java<br>🎯 Goals: ## Goal To become a top-level developer capable of building scalable, efficient, and production-ready applications🎲 
+<p align="left">✨ Creating programs since 16.09.2024<br>📚 I'm currently learning Java<br>🎯 Goals: ## Goal To become a top-level developer capable of building scalable, efficient, and production-ready applications🎲 ##
 
 ###
 
