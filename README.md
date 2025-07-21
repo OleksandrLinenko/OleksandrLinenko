@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </ul>
 
 ## 🏆Goal
-To become a top-level developer capable of building scalable, efficient, and production-ready applications 🎲.
+🎲To become a top-level developer capable of building scalable, efficient, and production-ready applications.
 
 <h2 align="left">⌨️I code with</h2>
 
