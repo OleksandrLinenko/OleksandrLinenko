@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with:</h2>
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="120">
 
 ###
