@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 <ul>
   <li>Currently I'm studying programming in university 💻</li>
   <li>On this page I publish some programs that I use simply for my own learning</li>
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">I code with</h2>
-![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="120">
+
 ###
 
 <div align="left">
