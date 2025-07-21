@@ -22,16 +22,17 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">About me</h2>
-Currently I'm studuying Java and C++ in university)
+- Currently I'm studuying programming in university💻
+- On this page I publish some programs that I use simply for my own learning
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating programs since 16.09.2024<br>📚 I'm currently learning Java<br>🎯 Goals: ## Goal To become a top-level developer capable of building scalable, efficient, and production-ready applications🎲 
 
 ###
 
 <h2 align="left">I code with</h2>
-
+![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
 ###
 
 <div align="left">
