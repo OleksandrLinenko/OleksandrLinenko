@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left"> 🔭About me:</h2>
+## 🔭About me:</h2>
 <ul>
   <li>Currently I'm studying programming in university 💻</li>
   <li>On this page I publish some programs that I use simply for my own learning</li>
 </ul>
 
-## Goal🏆
+## 🏆Goal
 To become a top-level developer capable of building scalable, efficient, and production-ready applications 🎲
 
 <h2 align="left">I code with:</h2>
