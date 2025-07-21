@@ -34,9 +34,7 @@ To become a top-level developer capable of building scalable, efficient, and pro
 
 ###
 
-<div align="left">
   ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-</div>
 
 ###
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo)
