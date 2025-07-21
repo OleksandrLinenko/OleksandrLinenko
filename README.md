@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <td style="vertical-align: middle; padding-left: 20px;">
       <p>☕Java</b> — OOP, multithreading, Spring Framework, and more;</p>
       <p>⭐Actively learning modern Java technologies and DevOps tools;</p>
-      <p>⏰New codes published daily</p>
+      <p>⏰New codes published daily.</p>
     </td>
   </tr>
 </table>
