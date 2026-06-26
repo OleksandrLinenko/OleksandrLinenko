@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 🏆Goal
 🎲To become a top-level developer capable of building scalable, efficient, and production-ready applications.
 
-<h2 align="left">⌨️I code with:</h2>
+<h2 align="left">⌨️I code with</h2>
 
 ###
 
