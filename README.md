@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭About me</h2>
 <ul style="list-style: none; padding-left: 0;">
-  <li>💻Currently I'm studying programming in university;</li>
+  <li>💻I am currently studying programming at university, majoring in Information Technology: Applied Informatics;</li>
   <li>🏫On this page I publish some programs that I use simply for my own learning.</li>
 </ul>
 
